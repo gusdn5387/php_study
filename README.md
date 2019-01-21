@@ -1,2 +1,2 @@
 # php_study
-https://opentutorials.org/course/62
+생활 코딩 > php 기본 수업 : https://opentutorials.org/course/62
